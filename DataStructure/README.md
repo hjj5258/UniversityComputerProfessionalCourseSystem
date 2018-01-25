@@ -2,7 +2,7 @@
 
 [视频链接请点击这里](http://mooc.study.163.com/course/1000033001?tid=1000044001#/info)
  #### 1.基本概念
- - [1.1 什么是数据结构](https://github.com/hjj5258/UniversityComputerProfessionalCourseSystem/blob/master/DataStructure/01/01-1.md)
+ - 1.1 [什么是数据结构](https://github.com/hjj5258/UniversityComputerProfessionalCourseSystem/blob/master/DataStructure/01/01-1.md)
  - 1.2 什么是算法
  - 1.3 应用实例：最大子列和问题
  #### 2.线性结构 

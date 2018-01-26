@@ -10,7 +10,7 @@
 #### 1. 概率论与数理统计
 #### 2.离散数学基础
 #### 3.算法设计与分析 
-#### [4.数据结构](https://github.com/hjj5258/UniversityComputerProfessionalCourseSystem/tree/master/DataStructure)
+#### 4.[数据结构](https://github.com/hjj5258/UniversityComputerProfessionalCourseSystem/tree/master/DataStructure)
 #### 5.计算机组成原理 
 ## 大三课程：
 #### 1.软件工程 

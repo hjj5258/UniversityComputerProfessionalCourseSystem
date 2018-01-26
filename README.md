@@ -1,10 +1,11 @@
 # 大学计算机专业课程体系
+### 声明：全部相关资料收录来至于网易云学堂和慕课网，本收录允许转载，请在高亮处标明出处！
 ![](https://github.com/hjj5258/UniversityComputerProfessionalCourseSystem/blob/master/Photo/all.png)
 - 以下是本人的路线，可以按照自己的基础选择路线
 - 大学计算机体系图（课程之间的连接线是建议的学习先后关系。由多条虚线连接过来的课程，可选前面的其中一门课程进行学习
 ## 大一课程：
 #### 1. 高等数学
-- 微积分(一)
+- [微积分(一)](https://github.com/hjj5258/UniversityComputerProfessionalCourseSystem/blob/master/Advanced%20Mathematics/Calculus01.md)
 - 微积分(二)
 ## 大二课程：
 #### 1. 概率论与数理统计

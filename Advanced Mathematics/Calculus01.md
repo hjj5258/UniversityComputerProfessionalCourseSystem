@@ -1,7 +1,7 @@
 ## 1. 第一周
 #### 1.1 函数
 - [实数与实数集](https://github.com/hjj5258/UniversityComputerProfessionalCourseSystem/blob/master/Advanced%20Mathematics/Calculus01/FirstWeek/01-1-1.md)
-- 有界集与上下确界
+- [有界集与上下确界](https://github.com/hjj5258/UniversityComputerProfessionalCourseSystem/blob/master/Advanced%20Mathematics/Calculus01/FirstWeek/01-1-2.md)
 - 函数及常用函数
 - 复合函数举例
 - 极坐标
